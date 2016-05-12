@@ -1,0 +1,10 @@
+c:\users\venkatesh.hegde\documents\visual studio 2013\Projects\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Debug\CodeFirstEntityFramework.dll.config
+c:\users\venkatesh.hegde\documents\visual studio 2013\Projects\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Debug\CodeFirstEntityFramework.dll
+c:\users\venkatesh.hegde\documents\visual studio 2013\Projects\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Debug\CodeFirstEntityFramework.pdb
+c:\users\venkatesh.hegde\documents\visual studio 2013\Projects\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Debug\EntityFramework.dll
+c:\users\venkatesh.hegde\documents\visual studio 2013\Projects\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\venkatesh.hegde\documents\visual studio 2013\Projects\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Debug\EntityFramework.xml
+c:\users\venkatesh.hegde\documents\visual studio 2013\Projects\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\venkatesh.hegde\documents\visual studio 2013\Projects\CodeFirstEntityFramework\CodeFirstEntityFramework\obj\Debug\CodeFirstEntityFramework.csprojResolveAssemblyReference.cache
+c:\users\venkatesh.hegde\documents\visual studio 2013\Projects\CodeFirstEntityFramework\CodeFirstEntityFramework\obj\Debug\CodeFirstEntityFramework.dll
+c:\users\venkatesh.hegde\documents\visual studio 2013\Projects\CodeFirstEntityFramework\CodeFirstEntityFramework\obj\Debug\CodeFirstEntityFramework.pdb
